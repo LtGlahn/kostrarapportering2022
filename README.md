@@ -6,12 +6,6 @@ P.t er denne rapporteringen UNDER ARBEID
 
 # Nedlasting 
 
-... _skrives snart_ 
-
-
-
-# Nedlasting 
-
 
 Årets leveranse publiseres på github på adressen [https://github.com/LtGlahn/kostrarapportering2022](https://github.com/LtGlahn/kostrarapportering2022). På github kan du lettvint laste ned data med den grønne knappen _"Code" -> "Download ZIP"_ , plassert oppe til høyre.
 
@@ -26,7 +20,6 @@ Nedlasting av enkeltrapporter er ørlite grann mer plundrete, og krever at du na
   * Klikk på _Download_ - knappen 
 
 ![Nedlasting, enkelt fil](./bilder/lastnedfil.png)  
-
 
 
 ### Filstruktur
