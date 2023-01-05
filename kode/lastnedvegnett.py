@@ -149,7 +149,7 @@ def filtersjekk( mittfilter={} ):
     mittfilter['adskiltelop']     = 'med,nei' 
     mittfilter['typeveg']         = 'kanalisertVeg,enkelBilveg,rampe,rundkjøring,gatetun' 
     mittfilter['historisk']       = 'true'
-    mittfilter['tidspunkt']       = '2021-12-16'
+    mittfilter['tidspunkt']       = '2022-12-31'
     mittfilter['veglenketype']       = 'hoved'
 
     return mittfilter
