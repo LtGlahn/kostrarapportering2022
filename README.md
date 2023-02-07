@@ -1,8 +1,6 @@
-# Kostra-leveranse 2021 - UNDER ARBEID **
+# Kostra-leveranse 2022
 
 Årets KOSTRA-rapport fra Nasjonal vegdatabank (NVDB) benytter samme metodikk som i fjor [kostrarapportering 2021](https://github.com/LtGlahn/kostrarapportering2021) og i forfjor [kostrarapportering 2020](https://github.com/LtGlahn/kostrarapportering2020). 
-
-P.t er denne rapporteringen UNDER ARBEID
 
 # Nedlasting 
 
